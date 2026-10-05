@@ -11,7 +11,7 @@ The program is in 2 parts.
 Part 1 (keyword) takes in a text file with each line containing a factual claim and a source, in the following format:
 This is a factual claim, ending in a period. (THE SOURCE IS CONTAINED IN ROUND BRACKETS)
 The text file in mine is called statements_norepro.txt
-To replace that with different content, make sure it's in the same format and change the filename in keywordsV2.py
+To replace that with different content, make sure it's in the same format and change the filename in keywords.py
 It also requires a text file with each line containing one word, for the list of common words to ignore when generating the keywords list.
 
 Outputs of keyword:
