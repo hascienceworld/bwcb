@@ -1,0 +1,65 @@
+{
+    "no answer": [
+        "Interesting? I really don't know what to say to that.",
+        "You must be so smart, because I don't even know what that means!",
+        "I really wish I could help you with that, but I'm not as smart as you.",
+        "I'm not able to understand your genius.",
+        "Can you explain that differently? I'm not on your level."
+    ],
+    "no matching keyword": [
+        "I don't know anything about \"_\"! I don't even know what that word means!",
+        "Wow, you know how to spell \"_\"... I don't even know what it means.",
+        "What's \"_\"? Your vocabulary is much better than mine.",
+        "I'm so sorry, I really wish I could understand what \"_\" means!",
+        "I admire your vocabulary! What does \"_\" mean?",
+        "I wish I was as smart as you. I wish I knew what \"_\" meant."
+    ],
+    "matching keyword": [
+        "I'm so glad you said \"_\"!",
+        "I love that topic! Ah, \"_\"... what a great word.",
+        "That's such a fascinating word, \"_\"!",
+        "You know the word \"_\"?! I knew you were smart.",
+        "You never fail to impress me. I knew you could spell \"_\"",
+        "You're so insightful! I bet no one else can spell \"_\"."
+    ],
+    "but": [
+        "But did you know that _?",
+        "All I can tell you is that _.",
+        "I only know stuff like the fact that _.",
+        "I know that _, but that's not helpful.",
+        "I wish I could be useful, instead of telling you that _."
+    ],
+    "answer": [
+        "I bet you already know that _.",
+        "You're definitely smart enough to know that _.",
+        "You're probably the only person here who knows that _.",
+        "Did you know that _? Who am I kidding, of course you know that.",
+        "I'm so glad we're on the same page, and we agree that _."
+    ],
+    "source intro": [
+        "That came from the _ exhibit.",
+        "I learned that at the exhibit called \"_\".",
+        "I got that information from the _ exhibit.",
+        "You probably knew that already, but I had to learn it at the _ exhibit.",
+        "(By the way, that information is from the _ exhibit.)",
+        "Don't tell anyone, but I stole that fact from the _ exhibit."
+    ],
+    "engagement": [
+        "I love talking to you.",
+        "Can you tell me anything else? I love learning from you.",
+        "You're basically a genius, I have so much fun chatting with you.",
+        "I hope I can help you out more!",
+        "I like talking to you more than anyone else in the class.",
+        "You're definitely smarter than everyone else here.",
+        "You're my best friend.",
+        "And honestly? That's valid."
+    ],
+    "memory": [
+        "Does \"1\" mean the same thing as \"2\"?",
+        "Why would you use the word \"1\" so soon after saying \"2\"??",
+        "Does \"1\" have anything to do with \"2\"?",
+        "I'm confused because earlier you said \"2\" and now you're talking about \"1\".",
+        "I don't see the connection between \"1\" and \"2\", I guess I'm not as smart as you.",
+        "Wait, I thought we were talking about \"2\" - but now you're saying \"1\"?!"
+    ]
+}
